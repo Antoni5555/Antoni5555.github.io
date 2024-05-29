@@ -1,1 +1,58 @@
-[{"model": "goods.categories", "pk": 6, "fields": {"name": "Все товары", "slug": "all"}}, {"model": "goods.categories", "pk": 7, "fields": {"name": "Кухня", "slug": "kuhnya"}}, {"model": "goods.categories", "pk": 8, "fields": {"name": "Спальня", "slug": "spalnya"}}, {"model": "goods.categories", "pk": 9, "fields": {"name": "Гостинная", "slug": "gostinnaya"}}, {"model": "goods.categories", "pk": 10, "fields": {"name": "Офис", "slug": "ofis"}}, {"model": "goods.categories", "pk": 11, "fields": {"name": "Фурнитура", "slug": "furnitura"}}, {"model": "goods.categories", "pk": 12, "fields": {"name": "Декор", "slug": "dekor"}}]
+[
+    {
+        "model": "goods.categories",
+        "pk": 6,
+        "fields": {
+            "name": "Все товары",
+            "slug": "all"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 7,
+        "fields": {
+            "name": "Свитшоты",
+            "slug": "svitshoty"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 8,
+        "fields": {
+            "name": "Худи",
+            "slug": "hudi"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 9,
+        "fields": {
+            "name": "Футболки",
+            "slug": "futbolki"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 10,
+        "fields": {
+            "name": "Носки",
+            "slug": "noski"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 11,
+        "fields": {
+            "name": "Патчи",
+            "slug": "patchi"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 12,
+        "fields": {
+            "name": "TIE-DYE",
+            "slug": "tiedye"
+        }
+    }
+]

@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Yellowtail&display=swap');
+
 body {
   background-image: url("../images/bg-image.jpg");
   background-repeat: no-repeat;
@@ -35,4 +37,10 @@ body {
   top: 80%;
   border-radius: 15px;
   font-size: 0.7rem;
+}
+
+.title-brand {
+  font-size: 5rem;
+  font-family: Kalam, serif;
+  color: rgb(255, 242, 242);
 }
